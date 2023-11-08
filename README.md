@@ -1,7 +1,7 @@
 # MGT6090_Assignment-8
 Private GitHub Repo for MGT-6090 BHC assignment. 
 
-## Assignment Submission Details
+## Assignment Submission Details (on assignment pdf)
 
 1. Note that in order to reduce the demands on your time, I made this a group assignment. Each group can have atmost 5 students
 2. Assignment deadline: 6:00pm on November 14, 2023
@@ -17,7 +17,7 @@ Private GitHub Repo for MGT-6090 BHC assignment.
 
 
 
-## Assignment Prompt
+## Assignment Prompt on Canvas
 Max size of the group is 5. Only one member of the group needs to submit (mention all the group members in the report and slides)
 
 Note that you need to submit

@@ -1,6 +1,28 @@
 # MGT6090_Assignment-8
 Private GitHub Repo for MGT-6090 BHC assignment. 
 
+Section 1: 
+
+Section 2: 
+
+Section 3: 
+
+Section 4: 
+
+
+Section 5:
+Nick
+
+Section 6: 
+Cal
+
+Section 7: 
+Nick
+
+Section 8: 
+Cal
+
+
 ## Assignment Submission Details (on assignment pdf)
 
 1. Note that in order to reduce the demands on your time, I made this a group assignment. Each group can have atmost 5 students

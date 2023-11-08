@@ -8,10 +8,10 @@ Presentation: Everyone
 Video Editing: Michael 
 
 Section 1: 
-
+Glenn
 
 Section 2:
-
+Glenn
 
 Section 3: 
 Nikita

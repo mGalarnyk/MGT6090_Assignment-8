@@ -10,12 +10,14 @@ Video Editing: Michael
 Section 1: 
 
 
-Section 2: 
+Section 2:
+
 
 Section 3: 
+Nikita
 
 Section 4: 
-
+Nikita
 
 Section 5:
 Nick

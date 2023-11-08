@@ -1,5 +1,21 @@
 # MGT6090_Assignment-8
-Private GitHub Repo for MGT-6090 BHC. 
+Private GitHub Repo for MGT-6090 BHC assignment. 
+
+## Assignment Submission Details
+
+1. Note that in order to reduce the demands on your time, I made this a group assignment. Each group can have atmost 5 students
+2. Assignment deadline: 6:00pm on November 14, 2023
+3. Submit through https://canvas.gatech.edu
+4. Graphical and empirical analysis should use Python and write the report using JupyterLab / Jupyter Notebook. The rest of the assignments would also be in Python
+5. You have to submit ONLY
+* Juypter notebook (well commented)
+* Output and report in PDF format (that shoud match the Jupyter Notebook)
+* A short (10 minutes) recorded video highlighting the major insights from analyzing the bank
+* Slides for the presentation
+* Do not submit the files as ZIP files. submit only Jupyter notebook and PDF files
+* You don’t need to submit any datasets
+
+
 
 ## Assignment Prompt
 Max size of the group is 5. Only one member of the group needs to submit (mention all the group members in the report and slides)

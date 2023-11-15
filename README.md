@@ -6,9 +6,5 @@ Presentation assignment from the Georgia Tech class MGT 6090. The goal of this 1
 The slides from the presentation are located here. The video of the presentation can be viewed on [YouTube](https://youtu.be/DAg-fwU3hQ0?si=DqbfknOXarnIHwV-). 
 
 ## Group Members
-Glenn Matlin
-Nikita Tatarinov
-Nicholas Meyer
-Mitchell Kramer
-Michael Galarnyk
+Glenn Matlin, Nikita Tatarinov, Nicholas Meyer, Mitchell Kramer, and Michael Galarnyk
 
